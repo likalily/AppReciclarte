@@ -8,6 +8,8 @@ import reciclarte.com.br.reciclarte.view.config.connectiondata.ConnectDataActivi
 import reciclarte.com.br.reciclarte.view.config.creditcard.CreditCardsActivity
 import reciclarte.com.br.reciclarte.view.config.deliveryaddress.DeliveryAddressesActivity
 
+
+//teste commit
 class AccountSettingsItemsDataBase {
 
     companion object{

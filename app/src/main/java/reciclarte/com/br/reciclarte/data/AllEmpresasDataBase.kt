@@ -16,7 +16,7 @@ class AllEmpresasDataBase {
                         "1"
                     ),
                     Price(
-                        119.90F,
+                        19.90F,
                         10,
                         false,
                         0F
@@ -34,10 +34,10 @@ class AllEmpresasDataBase {
                         "2"
                     ),
                     Price(
-                        149.99F,
+                        14.99F,
                         2,
                         true,
-                        84.99F
+                        4.99F
                     ),
                     Rate(
                         4.5F,
@@ -52,10 +52,10 @@ class AllEmpresasDataBase {
                         "3"
                     ),
                     Price(
-                        349.99F,
+                        19.99F,
                         5,
                         true,
-                        229.99F
+                        3.99F
                     ),
                     Rate(
                         4.5F,
@@ -70,10 +70,10 @@ class AllEmpresasDataBase {
                         "4"
                     ),
                     Price(
-                        159.99F,
+                        13.99F,
                         3,
                         true,
-                        119.99F
+                        1.99F
                     ),
                     Rate(
                         4.5F,
@@ -88,10 +88,10 @@ class AllEmpresasDataBase {
                         "5"
                     ),
                     Price(
-                        699.99F,
+                        9.99F,
                         10,
                         true,
-                        439.99F
+                        1.99F
                     ),
                     Rate(
                         4.5F,
@@ -106,10 +106,10 @@ class AllEmpresasDataBase {
                         "6"
                     ),
                     Price(
-                        229.99F,
+                        29.99F,
                         4,
                         true,
-                        169.99F
+                        4.99F
                     ),
                     Rate(
                         5F,
@@ -124,7 +124,7 @@ class AllEmpresasDataBase {
                         "7"
                     ),
                     Price(
-                        599.99F,
+                        9.99F,
                         10,
                         false,
                         0F
@@ -142,7 +142,7 @@ class AllEmpresasDataBase {
                         "8"
                     ),
                     Price(
-                        449.99F,
+                        14.99F,
                         10,
                         false,
                         0F

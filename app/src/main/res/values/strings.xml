@@ -19,7 +19,7 @@
     <string name="item_suit_shoes">Sapatênis</string>
     <string name="item_shoes">Tênis</string>
     <string name="item_performance_shoes">Tênis performance</string>
-    <string name="item_contact">Contato BlueShoes</string>
+    <string name="item_contact">Contato Reciclarte</string>
     <string name="item_about">Sobre</string>
     <string name="item_privacy_policy">Políticas de privacidade</string>
     <string name="item_my_orders">Meus pedidos</string>
@@ -57,16 +57,16 @@
     </string>
 
     <string name="ic_instagram_desc">Ícone do Instagram Reciclarte</string>
-    <string name="label_instagram">/BlueShoes</string>
+    <string name="label_instagram">/Reciclarte</string>
 
     <string name="ic_facebook_desc">Ícone do Facebook Reciclarte</string>
-    <string name="label_facebook">/BlueShoesFace</string>
+    <string name="label_facebook">/ReciclarteFace</string>
 
     <string name="ic_twitter_desc">Ícone do Twitter Reciclarte</string>
-    <string name="label_twitter">/BlueShoesTwitter</string>
+    <string name="label_twitter">/ReciclarteTwitter</string>
 
     <string name="ic_youtube_desc">Ícone do YouTube Reciclarte</string>
-    <string name="label_youtube">/BlueShoesYT</string>
+    <string name="label_youtube">/ReciclarteYT</string>
 
     <string name="ic_linkedin_desc">Ícone do LinkedIn Reciclarte</string>
     <string name="label_linkedin">/ReciclarteLkIn</string>
@@ -253,7 +253,7 @@
     </string>
     <string name="imagepicker_gallery_activity">Galeria</string>
     <string name="imagepicker_cam_photos_activity">
-        Fotos câmera BlueShoes
+        Fotos câmera Reciclarte
     </string>
     <string name="imagepicker_selection_limit">
         Apenas uma imagem pode ser selecionada.

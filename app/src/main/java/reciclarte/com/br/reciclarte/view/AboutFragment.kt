@@ -73,31 +73,31 @@ class AboutFragment :
             R.id.iv_facebook -> {
                 openNetwork(
                     "com.facebook.katana",
-                    "fb://facewebmodal/f?href=https://www.facebook.com/thiengoCalopsita",
-                    "https://www.facebook.com/thiengoCalopsita"
+                    "fb://facewebmodal/f?href=https://www.facebook.com/reciclarte",
+                    "https://www.facebook.com/reciclarte"
                 )
             }
             R.id.tv_twitter,
             R.id.iv_twitter-> {
                 openNetwork(
                     "com.twitter.android",
-                    "https://twitter.com/thiengoCalops",
-                    "https://twitter.com/thiengoCalops"
+                    "https://twitter.com/reciclarte",
+                    "https://twitter.com/reciclarte"
                 )
             }
             R.id.tv_youtube,
             R.id.iv_youtube-> {
                 openNetwork(
                     "com.google.android.youtube",
-                    "https://www.youtube.com/user/thiengoCalopsita",
-                    "https://www.youtube.com/user/thiengoCalopsita"
+                    "https://www.youtube.com/user/reciclarte",
+                    "https://www.youtube.com/user/reciclarte"
                 )
             }
             else -> {
                 openNetwork(
                     "com.linkedin.android",
-                    "https://www.linkedin.com/in/vin%C3%ADcius-thiengo-5179b180/",
-                    "https://www.linkedin.com/in/vin%C3%ADcius-thiengo-5179b180/"
+                    "https://www.linkedin.com/in/vin%C3%ADcius-reciclarte/",
+                    "https://www.linkedin.com/in/vin%C3%ADcius-reciclarte/"
                 )
             }
         }

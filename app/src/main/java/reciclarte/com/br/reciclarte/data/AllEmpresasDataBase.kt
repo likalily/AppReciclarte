@@ -12,11 +12,11 @@ class AllEmpresasDataBase {
                     "Empresa Rio Verde Ferraz",
                     "https://media.discordapp.net/attachments/879228491202170933/893696341832761374/kisspng-recycling-symbol-reuse-waste-minimisation-energy-and-environmental-protection-5a92ced8e34617.png",
                     Brand(
-                        "Adidas",
-                        "https://cdn.awsli.com.br/400x300/1062/1062636/logo/1a09cccb3a.png"
+                        "Cod.1",
+                        "1"
                     ),
                     Price(
-                        119.90F,
+                        19.90F,
                         10,
                         false,
                         0F
@@ -27,17 +27,17 @@ class AllEmpresasDataBase {
                     )
                 ),
                 Empresas(
-                    "Empresa Rio Azul Ferraz",
-                    "https://media.discordapp.net/attachments/879228491202170933/893696341832761374/kisspng-recycling-symbol-reuse-waste-minimisation-energy-and-environmental-protection-5a92ced8e34617.png",
+                    "Empresa Vidro Ferraz",
+                    "https://media.discordapp.net/attachments/879228491202170933/893922857531355246/recy1.png",
                     Brand(
-                        "Oakley",
-                        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oakley_logo.svg/641px-Oakley_logo.svg.png"
+                        "Cod.2",
+                        "2"
                     ),
                     Price(
-                        149.99F,
+                        14.99F,
                         2,
                         true,
-                        84.99F
+                        4.99F
                     ),
                     Rate(
                         4.5F,
@@ -45,17 +45,17 @@ class AllEmpresasDataBase {
                     )
                 ),
                 Empresas(
-                    "Empresa Rio Laranja Ferraz",
-                    "https://media.discordapp.net/attachments/879228491202170933/893696341832761374/kisspng-recycling-symbol-reuse-waste-minimisation-energy-and-environmental-protection-5a92ced8e34617.png",
+                    "Empresa MultRecy Ferraz",
+                    "https://media.discordapp.net/attachments/879228491202170933/893922862270910515/recy2.png",
                     Brand(
-                        "Nike",
-                        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/1200px-Logo_NIKE.svg.png"
+                        "Cod.3",
+                        "3"
                     ),
                     Price(
-                        349.99F,
+                        19.99F,
                         5,
                         true,
-                        229.99F
+                        3.99F
                     ),
                     Rate(
                         4.5F,
@@ -63,17 +63,17 @@ class AllEmpresasDataBase {
                     )
                 ),
                 Empresas(
-                    "Empresa Rio Rosa Ferraz",
-                    "https://media.discordapp.net/attachments/879228491202170933/893696341832761374/kisspng-recycling-symbol-reuse-waste-minimisation-energy-and-environmental-protection-5a92ced8e34617.png",
+                    "Empresa Reciclagem Ferraz",
+                    "https://media.discordapp.net/attachments/879228491202170933/893922866968535060/recy3.png",
                     Brand(
-                        "Olympikus",
-                        "https://logodownload.org/wp-content/uploads/2017/06/olympikus-logo.png"
+                        "Cod.4",
+                        "4"
                     ),
                     Price(
-                        159.99F,
+                        13.99F,
                         3,
                         true,
-                        119.99F
+                        1.99F
                     ),
                     Rate(
                         4.5F,
@@ -81,17 +81,17 @@ class AllEmpresasDataBase {
                     )
                 ),
                 Empresas(
-                    "Empresa Rio Lilás Ferraz",
-                    "https://media.discordapp.net/attachments/879228491202170933/893696341832761374/kisspng-recycling-symbol-reuse-waste-minimisation-energy-and-environmental-protection-5a92ced8e34617.png",
+                    "Empresa BioRecicle Ferraz",
+                    "https://media.discordapp.net/attachments/879228491202170933/893922871318028288/recy4.png",
                     Brand(
-                        "Adidas",
-                        "https://9d41bboy87-flywheel.netdna-ssl.com/outlets-at-legends/wp-content/uploads/sites/11/2019/07/Adidas_Logo.png"
+                        "Cod.5",
+                        "5"
                     ),
                     Price(
-                        699.99F,
+                        9.99F,
                         10,
                         true,
-                        439.99F
+                        1.99F
                     ),
                     Rate(
                         4.5F,
@@ -99,17 +99,17 @@ class AllEmpresasDataBase {
                     )
                 ),
                 Empresas(
-                    "Empresa Rio Amarelo Ferraz",
-                    "https://media.discordapp.net/attachments/879228491202170933/893696341832761374/kisspng-recycling-symbol-reuse-waste-minimisation-energy-and-environmental-protection-5a92ced8e34617.png",
+                    "Empresa RecycleOrganic Ferraz",
+                    "https://media.discordapp.net/attachments/879228491202170933/893922875642347550/recy5.png",
                     Brand(
-                        "Nike",
-                        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/1200px-Logo_NIKE.svg.png"
+                        "Cod.6",
+                        "6"
                     ),
                     Price(
-                        229.99F,
+                        29.99F,
                         4,
                         true,
-                        169.99F
+                        4.99F
                     ),
                     Rate(
                         5F,
@@ -117,14 +117,14 @@ class AllEmpresasDataBase {
                     )
                 ),
                 Empresas(
-                    "Empresa Rio Cinza Ferraz",
-                    "https://media.discordapp.net/attachments/879228491202170933/893696341832761374/kisspng-recycling-symbol-reuse-waste-minimisation-energy-and-environmental-protection-5a92ced8e34617.png",
+                    "Empresa RecyEletron Ferraz",
+                    "https://media.discordapp.net/attachments/879228491202170933/893922881673785384/recy6.png",
                     Brand(
-                        "Reebok",
-                        "https://seeklogo.com/images/R/reebok-logo-B8CC638372-seeklogo.com.png"
+                        "Cod.7",
+                        "7"
                     ),
                     Price(
-                        599.99F,
+                        9.99F,
                         10,
                         false,
                         0F
@@ -135,14 +135,14 @@ class AllEmpresasDataBase {
                     )
                 ),
                 Empresas(
-                    "Empresa Rio Preto Ferraz",
-                    "https://media.discordapp.net/attachments/879228491202170933/893696341832761374/kisspng-recycling-symbol-reuse-waste-minimisation-energy-and-environmental-protection-5a92ced8e34617.png",
+                    "Empresa RecyLamp Ferraz",
+                    "https://media.discordapp.net/attachments/879228491202170933/893922888195899463/recy7.png",
                     Brand(
-                        "Nike",
-                        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/1200px-Logo_NIKE.svg.png"
+                        "Cod.8",
+                        "8"
                     ),
                     Price(
-                        449.99F,
+                        14.99F,
                         10,
                         false,
                         0F

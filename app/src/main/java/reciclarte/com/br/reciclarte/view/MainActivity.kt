@@ -44,7 +44,7 @@ class MainActivity :
     }
 
     val user = User(
-        "Thiengo Vinícius",
+        "Eli/Fer/Nat/Ram",
         R.drawable.user,
         true
     )
@@ -113,7 +113,7 @@ class MainActivity :
              * */
             var fragId = intent?.getIntExtra( FRAGMENT_ID, 0 )
             if(fragId == 0){
-                fragId = R.id.item_all_shoes
+                fragId = R.id.item_all_primary
             }
 
             /*
@@ -251,7 +251,7 @@ class MainActivity :
              * */
             var fragId = intent?.getIntExtra( FRAGMENT_ID, 0 )
             if( fragId == 0 ){
-                fragId = R.id.item_all_shoes
+                fragId = R.id.item_all_primary
             }
 
             fragment = getFragment( fragId!!.toLong() )

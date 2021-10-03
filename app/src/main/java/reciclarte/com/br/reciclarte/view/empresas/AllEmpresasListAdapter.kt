@@ -26,7 +26,7 @@ class AllEmpresasListAdapter(
         val layout = LayoutInflater
             .from( parent.context )
             .inflate(
-                R.layout.shoes_item,
+                R.layout.empresas_item,
                 parent,
                 false
             )

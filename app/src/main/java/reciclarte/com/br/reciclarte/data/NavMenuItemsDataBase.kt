@@ -13,36 +13,16 @@ class NavMenuItemsDataBase( context: Context ) {
      * */
     val items = listOf(
         NavMenuItem(
-            R.id.item_all_shoes.toLong(),
+            R.id.item_all_primary.toLong(),
             context.getString(R.string.item_all_shoes)
         ),
         NavMenuItem(
-            R.id.item_flip_flops.toLong(),
+            R.id.item_flip_enterprise.toLong(),
             context.getString(R.string.item_flip_flops)
         ),
         NavMenuItem(
             R.id.item_cleats.toLong(),
             context.getString(R.string.item_cleats)
-        ),
-        NavMenuItem(
-            R.id.item_sandals.toLong(),
-            context.getString(R.string.item_sandals)
-        ),
-        NavMenuItem(
-            R.id.item_ballet_shoes.toLong(),
-            context.getString(R.string.item_ballet_shoes)
-        ),
-        NavMenuItem(
-            R.id.item_suit_shoes.toLong(),
-            context.getString(R.string.item_suit_shoes)
-        ),
-        NavMenuItem(
-            R.id.item_shoes.toLong(),
-            context.getString(R.string.item_shoes)
-        ),
-        NavMenuItem(
-            R.id.item_performance_shoes.toLong(),
-            context.getString(R.string.item_performance_shoes)
         ),
         NavMenuItem(
             R.id.item_contact.toLong(),

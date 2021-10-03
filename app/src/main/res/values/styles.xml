@@ -9,7 +9,7 @@
             Definição da imagem que será carregada como imagem de
             background em abertura de aplicativo.
         -->
-        <item name="android:windowBackground">@drawable/background</item>
+        <item name="android:windowBackground">@drawable/background1</item>
 
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

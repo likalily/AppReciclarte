@@ -12,8 +12,8 @@
     <string name="tx_conected_as">Conectado como:</string>
 
     <string name="item_all_shoes">Menu</string>
-    <string name="item_flip_flops">Empresas</string>
-    <string name="item_cleats">Artesãos</string>
+    <string name="item_flip_flops">Pessoas Físicas</string>
+    <string name="item_cleats">Empresas</string>
     <string name="item_sandals">Sandálias</string>
     <string name="item_ballet_shoes">Sapatilhas</string>
     <string name="item_suit_shoes">Sapatênis</string>
@@ -28,16 +28,17 @@
 
 
     <!-- AboutFragment -->
-    <string name="about_frag_title">Sobre a Reciclarte</string>
+    <string name="about_frag_title">Sobre a ADS Soluções Inteligentes</string>
 
     <string name="about_frag_mission_title">Missão</string>
     <string name="about_frag_mission_desc">
-        Inspirar e transformar a vida das pessoas.
+        Nossa missão é desenvolver soluções compactas e objetivas
+        para as suas necessidades.
     </string>
 
     <string name="about_frag_vision_title">Visão</string>
     <string name="about_frag_vision_desc">
-        A melhor e mais inovadora experiência de compra.
+        Tornar-se a melhor empresa em soluções personalizadas.
     </string>
 
     <string name="about_frag_values_title">Valores</string>
@@ -46,14 +47,14 @@
         foco.
     </string>
 
-    <string name="about_frag_ethic_title">Ética e integridade</string>
+    <string name="about_frag_ethic_title">Ética e Integridade</string>
     <string name="about_frag_ethic_desc">
         A ética e a integridade fazem parte da nossa cultura e são
         essenciais para o nosso negócio.
     </string>
 
     <string name="about_frag_social_networks_title">
-        Nos acompanhe nas redes sociais e não perca as promoções
+        Nos acompanhe nas redes sociais!
     </string>
 
     <string name="ic_instagram_desc">Ícone do Instagram Reciclarte</string>
@@ -72,7 +73,7 @@
     <string name="label_linkedin">/ReciclarteLkIn</string>
     <string name="info_linkedin">Para oportunidades de emprego!</string>
 
-    <string name="ic_cnpj_desc">Ícone do CNPJ Reciclarte</string>
+    <string name="ic_cnpj_desc">Ícone do CNPJ ADS Soluções Inteligentes</string>
     <string name="label_cnpj">CNPJ 25.002.230/0001&#8211;10</string>
 
 

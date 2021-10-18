@@ -17,12 +17,13 @@
         app:layout_constraintLeft_toLeftOf="parent">
 
         <EditText
-            android:id="@+id/et_email"
-            style="@style/EditTextFormField"
-            android:background="@drawable/bg_form_field_top"
-            android:inputType="textEmailAddress"
-            android:imeOptions="actionNext"
-            android:hint="@string/hint_email"/>
+                android:id="@+id/et_email"
+                style="@style/EditTextFormField"
+                android:background="@drawable/bg_form_field_top"
+                android:inputType="textEmailAddress"
+                android:imeOptions="actionNext"
+                android:hint="@string/hint_email"
+                android:minHeight="48dp" />
 
         <EditText
             android:id="@+id/et_password"
